@@ -299,7 +299,7 @@ window.Quarto = {
 </ul>
 <p>这种<strong>交错处理（staggered adoption）</strong>带来了两个核心挑战：</p>
 <p><strong>挑战 1：TWFE 的偏误</strong></p>
-<p>在交错处理下，传统双向固定效应（TWFE）回归会产生<strong>负权重问题</strong>（Goodman-Bacon 2021）。早期接受处理的单位会被当作后期接受处理单位的”控制组”，而这些”控制组”实际上已经受到了处理，导致估计量出现偏误。</p>
+<p>在交错处理下，传统双向固定效应（TWFE）回归会产生<strong>负权重问题</strong>（Goodman-Bacon 2021）。早期接受处理的单位会被当作后期接受处理单位的“控制组”，而这些“控制组”实际上已经受到了处理，导致估计量出现偏误。</p>
 <p><strong>挑战 2：动态处理效应的异质性</strong></p>
 <p>处理效应可能随时间变化（如：短期为正、长期衰减），且不同批次（cohort）的处理效应可能存在异质性。这使得简单的平均处理效应（ATT）难以捕捉完整的政策效果。</p>
 <hr>
@@ -313,11 +313,11 @@ window.Quarto = {
 </section>
 <section id="匹配策略-2合成控制法synthetic-control" class="level3">
 <h3 class="anchored" data-anchor-id="匹配策略-2合成控制法synthetic-control">匹配策略 2：合成控制法（Synthetic Control）</h3>
-<p>为每个处理单位构建一个由未处理单位加权合成的”虚拟对照”，特别适合处理单位较少、但时间序列较长的情形（Abadie, Diamond &amp; Hainmueller 2010）。</p>
+<p>为每个处理单位构建一个由未处理单位加权合成的“虚拟对照”，特别适合处理单位较少、但时间序列较长的情形（Abadie, Diamond &amp; Hainmueller 2010）。</p>
 </section>
 <section id="匹配策略-3滚动匹配rolling-matching" class="level3">
 <h3 class="anchored" data-anchor-id="匹配策略-3滚动匹配rolling-matching">匹配策略 3：滚动匹配（Rolling Matching）</h3>
-<p>在每个时间点重新进行匹配，确保控制组始终是”尚未处理”的单位，避免使用未来会接受处理的单位作为当前控制组。</p>
+<p>在每个时间点重新进行匹配，确保控制组始终是“尚未处理”的单位，避免使用未来会接受处理的单位作为当前控制组。</p>
 <hr>
 </section>
 </section>
@@ -326,7 +326,7 @@ window.Quarto = {
 <p>作为基准比较，你需要实现至少两种现代 DID 估计量：</p>
 <section id="callaway-santanna-2021" class="level3">
 <h3 class="anchored" data-anchor-id="callaway-santanna-2021">Callaway &amp; Sant’Anna (2021)</h3>
-<p>通过”组别-时间”ATT 的构建，避免 TWFE 的负权重问题：</p>
+<p>通过“组别-时间”ATT 的构建，避免 TWFE 的负权重问题：</p>
 <p><span class="math display">\[
 ATT(g,t) = E[Y_t - Y_{g-1} \mid G_g = 1] - E[Y_t - Y_{g-1} \mid C = 1]
 \]</span></p>
@@ -420,7 +420,7 @@ Y_{it} = \sum_{g} \sum_{l \neq -1} \mu_{g,l} \cdot 1\{G_i = g\} \cdot 1\{t - g =
 </ol>
 <p><strong>C. 基准比较</strong></p>
 <ul>
-<li><strong>传统 TWFE</strong>：作为”反面教材”，展示其在交错处理下的偏误</li>
+<li><strong>传统 TWFE</strong>：作为“反面教材”，展示其在交错处理下的偏误</li>
 </ul>
 </section>
 <section id="报告要求" class="level3">
@@ -449,7 +449,7 @@ Y_{it} = \sum_{g} \sum_{l \neq -1} \mu_{g,l} \cdot 1\{G_i = g\} \cdot 1\{t - g =
 <h3 class="anchored" data-anchor-id="理论推导要求">3.2 理论推导要求</h3>
 <p>请选择以下<strong>至少一个</strong>命题进行<strong>严格的数学推导</strong>：</p>
 <p><strong>选项 A</strong>：推导 Callaway-Sant’Anna ATT(g,t) 的识别条件</p>
-<p>在”条件平行趋势”和”无预期效应”假设下，证明：</p>
+<p>在“条件平行趋势”和“无预期效应”假设下，证明：</p>
 <p><span class="math display">\[
 ATT(g,t) = E[Y_t - Y_{g-1} \mid G_g = 1] - E[Y_t - Y_{g-1} \mid C = 1]
 \]</span></p>
@@ -479,7 +479,7 @@ ATT(g,t) = E[Y_t - Y_{g-1} \mid G_g = 1] - E[Y_t - Y_{g-1} \mid C = 1]
 <h2 class="anchored" data-anchor-id="提交要求">提交要求</h2>
 <section id="研究报告pdf-markdown-源文件" class="level3">
 <h3 class="anchored" data-anchor-id="研究报告pdf-markdown-源文件">1. 研究报告（PDF + Markdown 源文件）</h3>
-<p>报告应包含： - <strong>DGP 设计</strong>：完整的数据生成方程，说明每个参数的经济/统计含义 - <strong>理论推导</strong>：至少一个命题的严格证明 - <strong>模拟结果</strong>：表格 + 图形，包含事件研究图、偏误-方差权衡图、覆盖率表 - <strong>结果解读</strong>：不仅报告”哪个方法更好”，更要解释”为什么”以及”在什么条件下” - <strong>论文评价/复现</strong>：详细的评估或复现报告</p>
+<p>报告应包含： - <strong>DGP 设计</strong>：完整的数据生成方程，说明每个参数的经济/统计含义 - <strong>理论推导</strong>：至少一个命题的严格证明 - <strong>模拟结果</strong>：表格 + 图形，包含事件研究图、偏误-方差权衡图、覆盖率表 - <strong>结果解读</strong>：不仅报告“哪个方法更好”，更要解释“为什么”以及“在什么条件下” - <strong>论文评价/复现</strong>：详细的评估或复现报告</p>
 <p><strong>字数要求</strong>：4000-8000 字（不含代码和附录）</p>
 </section>
 <section id="可复现代码" class="level3">
