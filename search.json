@@ -2,51 +2,51 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "经济与商务实证研究方法",
+    "title": "课程资源",
     "section": "",
     "text": "2026 春季学期 | 中国人民大学商学院研究生课程\n\n本课程围绕简约形式因果推断、因果机器学习、结构估计、LLM 文本分析与 AI 研究自动化五条主线展开，目标不是让学生“更快地写代码”，而是帮助学生在 AI 时代更稳健地提出研究问题、验证识别策略并组织可复现的研究流程。\n\n进入第 4 周讲义 查看课程大纲"
   },
   {
     "objectID": "index.html#快速入口",
     "href": "index.html#快速入口",
-    "title": "经济与商务实证研究方法",
+    "title": "课程资源",
     "section": "快速入口",
     "text": "快速入口\n\n\n本周讲义\n第 4 周聚焦现代 DiD、交错处理与合成控制，是本学期方法链条的关键节点。\n查看幻灯\n查看详稿\n\n\n课程大纲\n查看课程目标、AI 使用规范、成绩构成、9 周安排与各周材料发布状态。\n进入课程大纲\n\n\n课程资源\n集中查看环境配置、核心阅读、研究工具与本地文献库入口。\n进入资源页\n\n\n环境配置\n第一次进入课程，建议先完成 VS Code、Python、Quarto 与 Stata/R 的基本配置。\n查看安装与配置"
   },
   {
     "objectID": "index.html#本周安排",
     "href": "index.html#本周安排",
-    "title": "经济与商务实证研究方法",
+    "title": "课程资源",
     "section": "本周安排",
     "text": "本周安排\n\n\n已发布 当前建议优先完成\n\n\n第 4 周：现代 DiD 与合成控制\n\n核心主题：动态处理效应、Goodman-Bacon 分解、Callaway-Sant’Anna、Sun-Abraham、synthetic control\n幻灯： 第 4 周讲义\n详稿： 第 4 周详细讲义\n配套实验： L4 交错 DiD Monte Carlo.ipynb\n后续安排：第 5 至第 9 周材料将按授课进度陆续发布"
   },
   {
     "objectID": "index.html#课程概览",
     "href": "index.html#课程概览",
-    "title": "经济与商务实证研究方法",
+    "title": "课程资源",
     "section": "课程概览",
     "text": "课程概览\n\n\n简约形式因果推断\n双重差分法、断点回归、工具变量、合成控制法与识别诊断。\n\n\n因果机器学习\n双重 / 去偏 ML、因果森林、异质性处理效应与模型验证。\n\n\n结构估计\n需求估计、引力模型、机制分析与反事实政策模拟。\n\n\nLLM 文本分析\n提示标注、效度检验、测量误差诊断与下游经验研究应用。\n\n\nAI 研究自动化\n审计轨迹、复现治理、智能编码与研究流程自动化。"
   },
   {
     "objectID": "index.html#课程动态",
     "href": "index.html#课程动态",
-    "title": "经济与商务实证研究方法",
+    "title": "课程资源",
     "section": "课程动态",
     "text": "课程动态\n\n\n新发布 2026-04-25\n\n第 2 周材料已发布\n第 2 周《计算基础与工作流》课件与详细讲义现已上线，适合第一次搭建课程工作环境的同学优先使用。\n查看第 2 周课件\n查看第 2 周详细讲义\n\n\n\n更新 2026-04-19\n\n课程结构调整为 9 周\n原先并列的 DiD 内容拆分为“经典 DiD”和“现代 DiD 与合成控制”两周，便于将识别逻辑、估计量差异与实操练习分开消化。\n查看第 3 周讲义\n查看第 4 周讲义\n\n\n\n新发布 2026-04-18\n\n第 1 周材料已发布\n第 1 周聚焦研究设计、因果推断与 AI 时代的实证研究边界，可作为整个学期的方法总入口。\n查看第 1 周课件\n查看第 1 周详细讲义"
   },
   {
     "objectID": "index.html#第一次访问建议",
     "href": "index.html#第一次访问建议",
-    "title": "经济与商务实证研究方法",
+    "title": "课程资源",
     "section": "第一次访问建议",
     "text": "第一次访问建议\n\n\n第 1 步：完成安装与配置\n先安装 VS Code、Python 插件、Quarto，并确认自己已准备好 Stata 或 R。\n\n\n第 2 步：通读课程大纲\n重点关注成绩构成、AI 使用规范与 9 周材料发布状态，避免把“课程承诺”和“已发布资源”混为一谈。\n\n\n第 3 步：打开当前讲义\n按“当前已发布材料”顺序学习，并优先完成对应实验室练习。"
   },
   {
     "objectID": "index.html#课程联系与安排",
     "href": "index.html#课程联系与安排",
-    "title": "经济与商务实证研究方法",
+    "title": "课程资源",
     "section": "课程联系与安排",
-    "text": "课程联系与安排\n\n\n\n\n项目\n信息\n\n\n\n\n教师\n陈志远\n\n\n邮箱\nchenzhiyuan@rmbs.ruc.edu.cn\n\n\n办公地点\n商学楼316（通州校区）\n\n\n上课时间\n周五 14:00-17:30\n\n\n上课地点\n商学楼103（通州校区）\n\n\n答疑\n预约制"
+    "text": "课程联系与安排\n\n\n\n\n项目\n信息\n\n\n\n\n教师\n陈志远\n\n\n邮箱\nchenzhiyuan@rmbs.ruc.edu.cn\n\n\n办公地点\n商学楼316（通州校区）\n\n\n上课时间\n周五 14:00-17:30\n\n\n上课地点\n商学楼103（通州校区）\n\n\n答疑\n预约制\n\n\n\n\n\n\n\n\n\n\n\n\n重要课程状态\n\n\n\n本大纲更新于 2026-04-24。上课时间与地点已确定，课程按 9 周组织。目前已发布第 1 至第 4 周讲义与详稿，第 5 至第 9 周材料将按授课进度陆续更新。"
   },
   {
     "objectID": "syllabus.html",
@@ -243,5 +243,187 @@
     "title": "作业 2：交错处理、匹配策略与 Monte Carlo 验证",
     "section": "参考文献",
     "text": "参考文献\n核心方法论文献：\n\nGoodman-Bacon, A. (2021). Difference-in-differences with variation in treatment timing. Journal of Econometrics, 225(2), 254-277.\nCallaway, B., & Sant’Anna, P. H. (2021). Difference-in-differences with multiple time periods. Journal of Econometrics, 225(2), 200-230.\nSun, L., & Abraham, S. (2021). Estimating dynamic treatment effects in event studies with heterogeneous treatment effects. Journal of Econometrics, 225(2), 175-199.\nBorusyak, K., Jaravel, X., & Spiess, J. (2024). Revisiting event study designs: Robust and efficient estimation. Review of Economic Studies, 91(6), 3253-3285.\nAbadie, A., Diamond, A., & Hainmueller, J. (2010). Synthetic control methods for comparative case studies. Journal of the American Statistical Association, 105(490), 493-505.\nArkhangelsky, D., Athey, S., Hirshberg, D. A., Imbens, G. W., & Wager, S. (2021). Synthetic difference-in-differences. American Economic Review, 111(12), 4088-4118.\n\n综述与教材：\n\nCunningham, S. (2021). Causal Inference: The Mixtape. Ch. 9 (Difference-in-Differences).\nRoth, J., Sant’Anna, P. H., Bilinski, A., & Poe, J. (2023). What’s trending in difference-in-differences? A synthesis of the recent econometrics literature. Journal of Econometrics.\n\n\n祝研究愉快！如有问题，请在课程讨论区或答疑时间交流。"
+  },
+  {
+    "objectID": "2026Spring/Assignments/assignment01_staggered_matching_mc.html",
+    "href": "2026Spring/Assignments/assignment01_staggered_matching_mc.html",
+    "title": "作业 1：交错处理、匹配策略与 Monte Carlo 验证",
+    "section": "",
+    "text": "本次作业要求你在交错处理（staggered adoption）框架下，系统比较不同匹配策略与现代 DID 估计量的表现。与本科作业的经典 2×2 DID 不同，你需要面对更贴近现实的政策评估场景：处理在不同时间点分批次进入，且处理效应可能随时间动态变化。\n核心任务包括：\n\n设计一个渐进式处理的数据生成过程（DGP），包含多期面板、异质性处理效应和动态趋势\n比较至少三种匹配策略（如：精确匹配、倾向得分匹配、合成控制匹配）与 DID 的结合效果\n实现至少两种现代 DID 估计量（如 Callaway-Sant’Anna、Sun-Abraham 或 Borusyak-Jaravel-Spiess）作为基准\n通过Monte Carlo 模拟验证各估计量在不同识别条件下的统计性质（偏误、方差、覆盖率）\n进行理论推导，解释模拟结果背后的识别逻辑与偏误来源\n\n本作业对应课程第六至第九讲内容：面板数据、交错 DID、合成控制与因果机器学习前沿。"
+  },
+  {
+    "objectID": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#作业目标",
+    "href": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#作业目标",
+    "title": "作业 1：交错处理、匹配策略与 Monte Carlo 验证",
+    "section": "",
+    "text": "本次作业要求你在交错处理（staggered adoption）框架下，系统比较不同匹配策略与现代 DID 估计量的表现。与本科作业的经典 2×2 DID 不同，你需要面对更贴近现实的政策评估场景：处理在不同时间点分批次进入，且处理效应可能随时间动态变化。\n核心任务包括：\n\n设计一个渐进式处理的数据生成过程（DGP），包含多期面板、异质性处理效应和动态趋势\n比较至少三种匹配策略（如：精确匹配、倾向得分匹配、合成控制匹配）与 DID 的结合效果\n实现至少两种现代 DID 估计量（如 Callaway-Sant’Anna、Sun-Abraham 或 Borusyak-Jaravel-Spiess）作为基准\n通过Monte Carlo 模拟验证各估计量在不同识别条件下的统计性质（偏误、方差、覆盖率）\n进行理论推导，解释模拟结果背后的识别逻辑与偏误来源\n\n本作业对应课程第六至第九讲内容：面板数据、交错 DID、合成控制与因果机器学习前沿。"
+  },
+  {
+    "objectID": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#背景一从-22-did-到交错处理",
+    "href": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#背景一从-22-did-到交错处理",
+    "title": "作业 1：交错处理、匹配策略与 Monte Carlo 验证",
+    "section": "背景一：从 2×2 DID 到交错处理",
+    "text": "背景一：从 2×2 DID 到交错处理\n经典 DID 假设所有处理单位在同一时间接受处理。但在现实政策评估中，处理往往是渐进实施的：\n\n不同城市在不同年份试点同一政策\n不同企业在不同季度采用同一技术\n不同个体在不同时间注册同一项目\n\n这种交错处理（staggered adoption）带来了两个核心挑战：\n挑战 1：TWFE 的偏误\n在交错处理下，传统双向固定效应（TWFE）回归会产生负权重问题（Goodman-Bacon 2021）。早期接受处理的单位会被当作后期接受处理单位的”控制组”，而这些”控制组”实际上已经受到了处理，导致估计量出现偏误。\n挑战 2：动态处理效应的异质性\n处理效应可能随时间变化（如：短期为正、长期衰减），且不同批次（cohort）的处理效应可能存在异质性。这使得简单的平均处理效应（ATT）难以捕捉完整的政策效果。"
+  },
+  {
+    "objectID": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#背景二匹配策略在交错处理中的角色",
+    "href": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#背景二匹配策略在交错处理中的角色",
+    "title": "作业 1：交错处理、匹配策略与 Monte Carlo 验证",
+    "section": "背景二：匹配策略在交错处理中的角色",
+    "text": "背景二：匹配策略在交错处理中的角色\n在交错处理框架下，匹配策略需要相应调整：\n\n匹配策略 1：同期匹配（ contemporaneous matching）\n在每个处理批次进入时，仅使用该时点的未处理单位作为控制池，进行匹配后估计该批次的 ATT。\n\n\n匹配策略 2：合成控制法（Synthetic Control）\n为每个处理单位构建一个由未处理单位加权合成的”虚拟对照”，特别适合处理单位较少、但时间序列较长的情形（Abadie, Diamond & Hainmueller 2010）。\n\n\n匹配策略 3：滚动匹配（Rolling Matching）\n在每个时间点重新进行匹配，确保控制组始终是”尚未处理”的单位，避免使用未来会接受处理的单位作为当前控制组。"
+  },
+  {
+    "objectID": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#背景三现代-did-估计量",
+    "href": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#背景三现代-did-估计量",
+    "title": "作业 1：交错处理、匹配策略与 Monte Carlo 验证",
+    "section": "背景三：现代 DID 估计量",
+    "text": "背景三：现代 DID 估计量\n作为基准比较，你需要实现至少两种现代 DID 估计量：\n\nCallaway & Sant’Anna (2021)\n通过”组别-时间”ATT 的构建，避免 TWFE 的负权重问题：\n\\[\nATT(g,t) = E[Y_t - Y_{g-1} \\mid G_g = 1] - E[Y_t - Y_{g-1} \\mid C = 1]\n\\]\n其中 \\(G_g\\) 表示在第 \\(g\\) 期接受处理的组别，\\(C\\) 表示从未接受处理的组别（clean control）。\n\n\nSun & Abraham (2021)\n通过交互加权估计量，控制不同处理批次的异质性趋势：\n\\[\nY_{it} = \\sum_{g} \\sum_{l \\neq -1} \\mu_{g,l} \\cdot 1\\{G_i = g\\} \\cdot 1\\{t - g = l\\} + \\gamma_i + \\lambda_t + \\varepsilon_{it}\n\\]\n\n\nBorusyak, Jaravel & Spiess (2024) — 插补估计量\n利用未处理单位的 outcome 预测处理单位的反事实结果，适用于存在从未处理单位的情形。"
+  },
+  {
+    "objectID": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#任务一设计交错处理的-dgp30",
+    "href": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#任务一设计交错处理的-dgp30",
+    "title": "作业 1：交错处理、匹配策略与 Monte Carlo 验证",
+    "section": "任务一：设计交错处理的 DGP（30%）",
+    "text": "任务一：设计交错处理的 DGP（30%）\n请设计一个多期面板数据的模拟环境。最低要求：\n\n面板结构：\\(N \\geq 500\\) 个个体，\\(T \\geq 10\\) 个时期\n处理分配：至少 3 个处理批次（cohorts），在不同时间点进入\n协变量：至少 2 个可观测协变量 \\(X_i\\)（至少 1 个连续变量、1 个离散变量）\n处理效应：设定动态处理效应 \\(\\tau_{it}\\)，可随时间变化\n趋势异质性：允许不同批次或不同协变量子群具有不同的趋势\n\n你需要明确写出以下方程：\n\n处理分配机制：\\(D_{it} = f(X_i, \\alpha_i, \\varepsilon_i, t)\\)\n潜在结果方程：\\(Y_{it}(0)\\) 和 \\(Y_{it}(1)\\) 的生成过程\n观测结果：\\(Y_{it} = D_{it} \\cdot Y_{it}(1) + (1-D_{it}) \\cdot Y_{it}(0)\\)\n\n设计要求：\n\n\n\n\n\n\n\n\n场景\n目的\n关键设定\n\n\n\n\n场景 A\n基准情形：现代 DID 应表现良好\n平行趋势成立，存在 never-treated 单位，处理效应同质\n\n\n场景 B\n匹配策略的优势情形\n处理分配与协变量相关，存在选择偏误，但条件平行趋势成立\n\n\n场景 C\n匹配策略的局限情形\n存在不可观测的时变混淆，或缺乏 clean controls\n\n\n场景 D\n动态效应与异质性\n处理效应随时间衰减，不同 cohort 效应不同\n\n\n\n至少模拟 1000 次（建议 2000 次以提高精度）。"
+  },
+  {
+    "objectID": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#任务二实现匹配策略与估计量25",
+    "href": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#任务二实现匹配策略与估计量25",
+    "title": "作业 1：交错处理、匹配策略与 Monte Carlo 验证",
+    "section": "任务二：实现匹配策略与估计量（25%）",
+    "text": "任务二：实现匹配策略与估计量（25%）\n\n必须实现的估计方法\nA. 匹配 + DID 策略（至少选 2 种）\n\n同期 PSM-DID：在每个 cohort 进入时，使用当时的未处理单位进行倾向得分匹配，然后估计 DID\n滚动 PSM-DID：在每个时期重新匹配，确保控制组始终是尚未处理的单位\n合成控制法（SC）：为每个处理单位构建合成控制，计算处理效应\n合成双重差分（Synthetic DID）：Arkhangelsky et al. (2021) 的方法，结合合成控制与 DID\n\nB. 现代 DID 估计量（至少选 2 种）\n\nCallaway-Sant’Anna (2021)：使用 did 包（R）或 csdid（Stata）\nSun-Abraham (2021)：使用 eventstudyinteract（Stata）或手动实现\nBorusyak-Jaravel-Spiess (2024)：使用 did_imputation（Stata）或手动实现\n\nC. 基准比较\n\n传统 TWFE：作为”反面教材”，展示其在交错处理下的偏误\n\n\n\n报告要求\n对每种方法，报告：\n\n估计准确性：Bias、RMSE、Median Absolute Error\n推断有效性：95% 置信区间覆盖率、标准误 vs 蒙特卡洛标准差\n动态效应估计：事件研究图（event-study plot），展示处理前后各期的估计系数\n异质性分析：不同 cohort 或不同协变量子群的 ATT 估计"
+  },
+  {
+    "objectID": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#任务三monte-carlo-验证与理论推导30",
+    "href": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#任务三monte-carlo-验证与理论推导30",
+    "title": "作业 1：交错处理、匹配策略与 Monte Carlo 验证",
+    "section": "任务三：Monte Carlo 验证与理论推导（30%）",
+    "text": "任务三：Monte Carlo 验证与理论推导（30%）\n\n3.1 统计性质验证\n针对你的 DGP，严格验证以下理论命题：\n命题 1：当存在 never-treated 单位时，Callaway-Sant’Anna 估计量是否一致？通过模拟验证其偏误是否趋近于 0。\n命题 2：当平行趋势只在条件于 \\(X_i\\) 时成立，滚动匹配 DID 是否能恢复一致性？与无条件 DID 比较。\n命题 3：合成控制法在什么条件下优于传统匹配？（提示：考虑处理单位数量、donor pool 的相似性）\n命题 4：传统 TWFE 在交错处理下的偏误方向与大小。参考 Goodman-Bacon (2021) 的分解，你的 DGP 中哪些比较贡献了负权重？\n\n\n3.2 理论推导要求\n请选择以下至少一个命题进行严格的数学推导：\n选项 A：推导 Callaway-Sant’Anna ATT(g,t) 的识别条件\n在”条件平行趋势”和”无预期效应”假设下，证明：\n\\[\nATT(g,t) = E[Y_t - Y_{g-1} \\mid G_g = 1] - E[Y_t - Y_{g-1} \\mid C = 1]\n\\]\n能够识别真实的平均处理效应。\n选项 B：推导 TWFE 在交错处理下的偏误分解\n参考 Goodman-Bacon (2021)，证明 TWFE 估计量可以分解为不同 2×2 DID 比较的加权平均，且其中部分权重为负。\n选项 C：推导匹配估计量的渐近方差\n在特定匹配策略下，推导 ATT 估计量的渐近分布，并讨论 bootstrap 标准误的适用性。\n推导要求： - 明确定义所有符号和假设 - 逐步推导，每一步说明依据 - 最终结论与模拟结果相互验证"
+  },
+  {
+    "objectID": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#任务四实证论文复现或批判15",
+    "href": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#任务四实证论文复现或批判15",
+    "title": "作业 1：交错处理、匹配策略与 Monte Carlo 验证",
+    "section": "任务四：实证论文复现或批判（15%）",
+    "text": "任务四：实证论文复现或批判（15%）\n选择一篇使用交错 DID 或合成控制的学术论文（建议来自 AER、QJE、JPE、Econometrica、JoE、AEJ: Applied 等期刊）。\n\n选项 A：复现（Replication）\n如果论文数据公开，尝试： - 使用原文方法复现主要结果 - 使用现代 DID 估计量（如 Callaway-Sant’Anna）重新估计，比较与 TWFE 的差异 - 评估原文的识别策略在现代方法框架下的稳健性\n\n\n选项 B：批判性评价（Critical Assessment）\n如果数据不公开，进行严格的识别评价： - 论文是否讨论了交错处理下 TWFE 的潜在偏误？ - 平行趋势假设是否可信？作者如何检验？ - 是否存在 clean controls？如果没有，估计量可能面临什么问题？ - 根据你的模拟经验，该论文的结论在何种条件下可信，何种条件下脆弱？"
+  },
+  {
+    "objectID": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#提交要求",
+    "href": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#提交要求",
+    "title": "作业 1：交错处理、匹配策略与 Monte Carlo 验证",
+    "section": "提交要求",
+    "text": "提交要求\n\n1. 研究报告（PDF + Markdown 源文件）\n报告应包含： - DGP 设计：完整的数据生成方程，说明每个参数的经济/统计含义 - 理论推导：至少一个命题的严格证明 - 模拟结果：表格 + 图形，包含事件研究图、偏误-方差权衡图、覆盖率表 - 结果解读：不仅报告”哪个方法更好”，更要解释”为什么”以及”在什么条件下” - 论文评价/复现：详细的评估或复现报告\n字数要求：4000-8000 字（不含代码和附录）\n\n\n2. 可复现代码\n\n提供完整的、可独立运行的代码（Stata do-file、R script、Python notebook 均可）\n在代码开头设置随机种子（set seed 或 np.random.seed）\n代码应能一键生成所有表格和图形\n如使用外部包，请在开头列出安装命令\n\n\n\n3. AI 使用声明\n如果使用 AI 辅助编程、推导或写作，请提交： - 使用的 AI 工具列表 - 关键 prompt 示例 - AI 输出的原始内容 + 你的修改说明 - 最终版本中哪些内容完全由你完成\n注意：AI 使用不扣分，但未披露将被视为学术不端。"
+  },
+  {
+    "objectID": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#评分标准",
+    "href": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#评分标准",
+    "title": "作业 1：交错处理、匹配策略与 Monte Carlo 验证",
+    "section": "评分标准",
+    "text": "评分标准\n\n\n\n\n\n\n\n\n维度\n权重\n评分要点\n\n\n\n\nDGP 设计\n20%\n交错处理设定合理，动态效应与异质性设计清晰，场景覆盖充分\n\n\n方法实现\n25%\n匹配策略与现代 DID 实现正确，代码可复现，图形规范\n\n\n理论推导\n25%\n推导严格，假设明确，结论与模拟相互验证\n\n\nMonte Carlo 分析\n20%\n统计指标完整，事件研究图清晰，对偏误来源有深入解释\n\n\n论文复现/评价\n10%\n评价深入，能结合模拟经验指出原论文的稳健性与脆弱性"
+  },
+  {
+    "objectID": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#建议工具与包",
+    "href": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#建议工具与包",
+    "title": "作业 1：交错处理、匹配策略与 Monte Carlo 验证",
+    "section": "建议工具与包",
+    "text": "建议工具与包\n\nStata\n\ncsdid（Callaway-Sant’Anna）\neventstudyinteract（Sun-Abraham）\ndid_imputation（Borusyak-Jaravel-Spiess）\nsynth（合成控制）\nsdid（Synthetic DID）\nreghdfe（高维固定效应，用于基准 TWFE）\npsmatch2 或 teffects psmatch（倾向得分匹配）\n\n\n\nR\n\ndid（Callaway-Sant’Anna）\nfixest（固定效应与事件研究）\nMatchIt（匹配）\nSynth（合成控制）\nsynthdid（Synthetic DID）\n\n\n\nPython\n\npandas, numpy, statsmodels\nlinearmodels（面板数据）\n可手动实现匹配与现代 DID 估计量"
+  },
+  {
+    "objectID": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#学术诚信",
+    "href": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#学术诚信",
+    "title": "作业 1：交错处理、匹配策略与 Monte Carlo 验证",
+    "section": "学术诚信",
+    "text": "学术诚信\n\n可以与同学讨论思路，但代码、推导和报告必须独立完成\n引用他人代码或方法时明确标注来源\nAI 辅助需如实披露（见上文）\n严禁抄袭"
+  },
+  {
+    "objectID": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#参考文献",
+    "href": "2026Spring/Assignments/assignment01_staggered_matching_mc.html#参考文献",
+    "title": "作业 1：交错处理、匹配策略与 Monte Carlo 验证",
+    "section": "参考文献",
+    "text": "参考文献\n核心方法论文献：\n\nGoodman-Bacon, A. (2021). Difference-in-differences with variation in treatment timing. Journal of Econometrics, 225(2), 254-277.\nCallaway, B., & Sant’Anna, P. H. (2021). Difference-in-differences with multiple time periods. Journal of Econometrics, 225(2), 200-230.\nSun, L., & Abraham, S. (2021). Estimating dynamic treatment effects in event studies with heterogeneous treatment effects. Journal of Econometrics, 225(2), 175-199.\nBorusyak, K., Jaravel, X., & Spiess, J. (2024). Revisiting event study designs: Robust and efficient estimation. Review of Economic Studies, 91(6), 3253-3285.\nAbadie, A., Diamond, A., & Hainmueller, J. (2010). Synthetic control methods for comparative case studies. Journal of the American Statistical Association, 105(490), 493-505.\nArkhangelsky, D., Athey, S., Hirshberg, D. A., Imbens, G. W., & Wager, S. (2021). Synthetic difference-in-differences. American Economic Review, 111(12), 4088-4118.\n\n综述与教材：\n\nCunningham, S. (2021). Causal Inference: The Mixtape. Ch. 9 (Difference-in-Differences).\nRoth, J., Sant’Anna, P. H., Bilinski, A., & Poe, J. (2023). What’s trending in difference-in-differences? A synthesis of the recent econometrics literature. Journal of Econometrics.\n\n\n祝研究愉快！如有问题，请在课程讨论区或答疑时间交流。"
+  },
+  {
+    "objectID": "index.html#基本信息",
+    "href": "index.html#基本信息",
+    "title": "课程资源",
+    "section": "基本信息",
+    "text": "基本信息\n\n\n\n项目\n内容\n\n\n\n\n课程名称\n经济与商务实证研究方法\n\n\n任课教师\n陈志远\n\n\n院系\n中国人民大学商学院\n\n\n邮箱\nchenzhiyuan@rmbs.ruc.edu.cn\n\n\n办公地点\n商学楼316（通州校区）\n\n\n上课时间\n周五 14:00-17:30\n\n\n上课地点\n商学楼103（通州校区）\n\n\n答疑方式\n预约制"
+  },
+  {
+    "objectID": "index.html#课程定位",
+    "href": "index.html#课程定位",
+    "title": "课程资源",
+    "section": "课程定位",
+    "text": "课程定位\n本课程面向经济学、管理学与金融学方向的研究生，目标是在 AI 时代重新组织实证研究训练。课程将研究设计、因果识别、结构建模、文本测量与研究工作流放在同一个框架中讲授，帮助学生从“掌握零散方法”过渡到“能独立组织研究项目”。\n课程围绕五条主线展开：\n\n简约形式因果推断\n因果机器学习\n结构估计\nLLM 文本分析\nAI 研究自动化\n\n课程的核心教学主张是：AI 改变了研究的速度、边界与协作方式，但不会替代识别判断、验证过程与研究者责任。学生需要学会高强度使用 AI 工具，同时保留清晰的审计轨迹、纠错记录与复现能力。"
+  },
+  {
+    "objectID": "index.html#ai-使用规范",
+    "href": "index.html#ai-使用规范",
+    "title": "课程资源",
+    "section": "AI 使用规范",
+    "text": "AI 使用规范\n\n\n\n\n\n\n注记Trust but verify\n\n\n\n课程允许并鼓励使用 Copilot、ChatGPT、Claude、Gemini 等工具辅助编码、调试、文献筛选、提示标注和研究写作，但任何 AI 输出都不能绕过人工验证。\n\n\n凡使用 AI 的作业、实验或期末项目，必须附上一段简短的工作流附录，至少说明：\n\n使用了哪些工具\n分别用于哪些任务\n至少一个被采纳的输出示例\n至少一个被拒绝或修正的输出示例\n最终结果如何被验证\n\n未披露的 AI 使用将被视为工作流规范违例。"
+  },
+  {
+    "objectID": "index.html#成绩构成",
+    "href": "index.html#成绩构成",
+    "title": "课程资源",
+    "section": "成绩构成",
+    "text": "成绩构成\n\n\n\n组成部分\n比例\n\n\n\n\n课堂参与与讨论\n20%\n\n\nProblem sets 与实验室练习\n30%\n\n\nAI 工作流备忘录与审计附录\n10%\n\n\n期末项目与展示\n40%\n\n\n\n提交作业时，学生需要同时对“研究结论是否成立”和“工作流是否可复现”负责。代码、笔记本、输出结果与 AI 使用记录应保持可追溯。"
+  },
+  {
+    "objectID": "index.html#周安排总览",
+    "href": "index.html#周安排总览",
+    "title": "课程资源",
+    "section": "9 周安排总览",
+    "text": "9 周安排总览\n\n\n\n周次\n主题\n核心内容\n配套材料\n状态\n\n\n\n\n1\nAI 时代的实证研究\n研究设计、潜在结果框架、描述性与因果性区分\n幻灯 / 详稿\n已发布\n\n\n2\n计算基础与工作流\nVS Code、Python、Stata、Jupyter、仿真与审计轨迹\n幻灯 / 详稿\n已发布\n\n\n3\n面板数据与经典 DiD\nFE、2x2 DiD、事件研究、聚类标准误\n幻灯 / 详稿\n已发布\n\n\n4\n现代 DiD 与合成控制\nGoodman-Bacon 分解、现代估计量、synthetic control\n幻灯 / 详稿\n已发布\n\n\n5\n因果机器学习\nLASSO、DML、因果森林、异质性效应\n材料更新中\n即将发布\n\n\n6\n结构估计基础\n原语、矩条件、似然、仿真与识别\n材料更新中\n即将发布\n\n\n7\n结构估计应用\n需求估计、引力模型、反事实政策分析\n材料更新中\n即将发布\n\n\n8\nLLM 文本分析\n提示分类、效度检验、文本指标进入经验模型\n材料更新中\n即将发布\n\n\n9\nAI 研究自动化与期末展示\n文献综述自动化、规格搜索、agentic workflow\n材料更新中\n即将发布"
+  },
+  {
+    "objectID": "index.html#分周安排",
+    "href": "index.html#分周安排",
+    "title": "课程资源",
+    "section": "分周安排",
+    "text": "分周安排\n\n第 1 周：AI 时代的实证研究\n\n核心主题：潜在结果框架、研究设计、描述性问题与因果问题的边界、AI 对研究前沿的影响\n核心阅读：Abadie & Cattaneo (2018)、Good and Bad Controls、Applied Causal Inference Powered by ML and AI\n讲义入口： 幻灯 ｜ 详稿\n配套说明：建议将本周作为整个学期的方法总入口\n\n\n\n第 2 周：计算基础与工作流\n\n核心主题：VS Code、Python、Stata、Jupyter、仿真、debugging、带审计轨迹的 vibe coding\n核心实验：\n\nL2_Python_Basics.ipynb\nL2_Stata_Basics.ipynb\nL2_R_Basics.ipynb\n\n讲义入口： 幻灯 ｜ 详稿\n配套说明：第一次搭建课程环境的同学建议优先完成本周材料\n\n\n\n第 3 周：面板数据与经典 DiD\n\n核心主题：面板结构、固定效应、经典 2x2 DiD、事件研究、placebo tests、聚类标准误 Monte Carlo\n核心阅读：Bertrand, Duflo & Mullainathan (2004)、Cameron & Miller (2015)、Wooldridge DID 讲义、Card & Krueger (1994)\n实验入口： L3_Clustering_MonteCarlo.ipynb\n讲义入口： 幻灯 ｜ 详稿\n\n\n\n第 4 周：现代 DiD 与合成控制\n\n核心主题：动态处理效应、Ashenfelter dip、Goodman-Bacon 分解、Callaway-Sant’Anna、Sun-Abraham、dCdH、BJS、synthetic control 与 synthetic DiD\n核心阅读：Goodman-Bacon (2021)、Callaway & Sant’Anna (2021)、Sun & Abraham (2021)、Borusyak, Jaravel & Spiess (2024)、Abadie, Diamond & Hainmueller (2010)、Arkhangelsky et al. (2021)\n实验入口： L4-Diff-in-Diffs-More.ipynb\n讲义入口： 幻灯 ｜ 详稿\n\n\n\n第 5 周：因果机器学习\n\n核心主题：prediction versus causation、LASSO、Double / Debiased ML、orthogonalization、causal forests、HTE\n核心资源：Applied Causal Inference Powered by ML and AI、DoubleML 文档、EconML 文档\n材料状态：即将发布\n\n\n\n第 6 周：结构估计基础\n\n核心主题：原语、矩条件、似然、仿真、识别与反事实逻辑\n核心说明：本周重点是回答“何时必须引入结构”而不是机械推导公式\n材料状态：即将发布\n\n\n\n第 7 周：结构估计应用\n\n核心主题：BLP 需求估计、引力模型、进入与定价、并购 / 关税 / 平台反事实\n核心说明：强调经济含义、识别假设与计算实现之间的联动\n材料状态：即将发布\n\n\n\n第 8 周：LLM 文本分析\n\n核心主题：prompt-based classification、construct validity、annotation reliability、测量误差与下游经验模型\n核心说明：文本分析在本课中被视为一种测量问题，而非单纯的 NLP 技术展示\n材料状态：即将发布\n\n\n\n第 9 周：AI 研究自动化与期末展示\n\n核心主题：文献综述自动化、规格搜索 guardrails、agentic research workflows、复现检查与工作流治理\n核心说明：期末展示将同时评估研究问题、方法实现与 AI 工作流透明度\n材料状态：即将发布"
+  },
+  {
+    "objectID": "index.html#参考与下载",
+    "href": "index.html#参考与下载",
+    "title": "课程资源",
+    "section": "参考与下载",
+    "text": "参考与下载\n\n本地纯 Markdown 版本： RMEB2026Spring_Syllabus.md\n课程资源页： 课程资源\n首页： 课程首页\n\n本页集中整理课程所需的安装说明、核心阅读、研究工具与本地文献库入口。建议第一次访问课程网站的同学先完成“安装与配置”，再回到首页进入当周讲义。"
+  },
+  {
+    "objectID": "index.html#安装与配置",
+    "href": "index.html#安装与配置",
+    "title": "课程资源",
+    "section": "安装与配置",
+    "text": "安装与配置\n\n\n安装 VS Code\n安装 VS Code 的 Python 插件，并确认可正常打开 notebook\n安装 Quarto\n准备 Stata（学校授权版）或 R\n打开 第 2 周讲义 完成课程环境配置"
+  },
+  {
+    "objectID": "index.html#核心软件",
+    "href": "index.html#核心软件",
+    "title": "课程资源",
+    "section": "核心软件",
+    "text": "核心软件\n\n\nVS Code\n课程推荐的统一编辑器，用于管理脚本、notebooks、Quarto 文档与项目结构。\n下载安装\n\n\nPython + Jupyter\n用于仿真、数据处理、因果 ML 与 notebook 型实验室作业。\nPython in VS Code 教程\n\n\nQuarto\n用于组织讲义、实验说明与可复现的研究文档输出。\nQuarto 入门文档\n\n\nStata 或 R\n用于与 Python 互补地完成传统经验研究、计量实现与结果核对。\n建议至少熟悉其中一种，并能完成基础数据处理与回归操作。"
+  },
+  {
+    "objectID": "index.html#核心阅读",
+    "href": "index.html#核心阅读",
+    "title": "课程资源",
+    "section": "核心阅读",
+    "text": "核心阅读\n\n简约形式因果推断\n适用场景：当研究问题聚焦政策效应、制度冲击或识别设计时，优先从这一组材料建立识别直觉。\n\nAngrist & Pischke (2009) Mostly Harmless Econometrics\nAngrist & Pischke (2014) Mastering ’Metrics\nCunningham (2021) Causal Inference: The Mixtape（免费在线版）\nHuntington-Klein (2022) The Effect（免费在线版）\n\n\n\n因果机器学习\n适用场景：当研究需要高维控制、异质性处理效应或预测模块与因果推断结合时，可从本组材料进入。\n\nChernozhukov et al. (2018) - Double / Debiased ML\nWager & Athey (2018) - Causal Forests\nApplied Causal Inference Powered by ML and AI（免费）\n\n\n\n结构估计\n适用场景：当研究目标从“估计平均处理效应”转向“理解机制或进行反事实政策分析”时，这部分是关键入口。\n\nBerry (1994) - BLP 需求估计\nAnderson & van Wincoop (2003) - 引力方程\nTrain (2009) Discrete Choice Methods with Simulation（免费 PDF）\n\n\n\nLLM 与文本分析\n适用场景：当文本被视为测量对象，需要构造指标、验证效度并进入下游实证模型时，可从这里开始。\n\nDell (2024) - Deep Learning for Economists（NBER WP 32768）\nLudwig, Mullainathan & Rambachan (2025) - LLMs as econometric tools（NBER WP 33344）\nAutomated Social Science"
+  },
+  {
+    "objectID": "index.html#研究工具与外部链接",
+    "href": "index.html#研究工具与外部链接",
+    "title": "课程资源",
+    "section": "研究工具与外部链接",
+    "text": "研究工具与外部链接\n\nDiD\n\nPedro Sant’Anna DID Resources\ndid package (R)\n\n\n\n因果 ML\n\nDoubleML Documentation\nEconML Documentation\n\n\n\n文本分析\n\nStanford CS224N NLP\nAutomated Social Science\n\n\n\n写作与复现\n\nGitHub Copilot Overview\nQuarto Documentation"
+  },
+  {
+    "objectID": "index.html#本地文献库",
+    "href": "index.html#本地文献库",
+    "title": "课程资源",
+    "section": "本地文献库",
+    "text": "本地文献库\n课程引用的本地论文与书籍统一放在：\n\nReferences/UnifiedLibrary/Files/\nReferences/UnifiedLibrary/CATALOG.md\n\n如果你正在本地课程仓库中工作，可以直接使用上述路径查找材料；如果你是通过课程发布包或网页访问，请以任课教师提供的课程材料分发方式为准。"
   }
 ]
